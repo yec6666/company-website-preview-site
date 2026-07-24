@@ -1,0 +1,2 @@
+:HL["/company-website-preview-site/_next/static/chunks/0yjijnxyf8g_x.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"copper-garden","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"oMO4cT_McIyeX0kSPEzG7"}
